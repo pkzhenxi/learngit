@@ -7,3 +7,4 @@ Creating a branch is quick and simple & clear
 =======
 Creating a branch is quick and simple And clear
 >>>>>>> dev
+change from local
